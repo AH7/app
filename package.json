@@ -31,7 +31,7 @@
     "converse.js": "3.3.0",
     "st": "0.2.4",
     "stream-buffers": "^3.0.1",
-    "tap": "^5.7.0",
+    "tap": "^14.6.8",
     "browserify": "^13.1.1"
   }
 }
